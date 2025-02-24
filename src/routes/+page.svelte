@@ -40,7 +40,7 @@
 
 				<div class="flex gap-4 justify-center animate-fade-in" style="animation-delay: 1.5s;">
 					<a
-						href="https://github.com"
+						href="https://github.com/MihirLathiya510/tpl-svelte"
 						class="px-6 py-3 bg-accent-500 hover:bg-accent-600 text-white rounded-lg 
 							transition-all duration-200 transform hover:scale-105 hover:shadow-lg 
 							flex items-center gap-2"
